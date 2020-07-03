@@ -1,9 +1,9 @@
 package src.com.dragon.units;
 
-public class Spartan extends com.dragon.units.Warrior {
+public class Spartan extends Warrior {
 
     public Spartan() {
-        super(100, 200);
+        super(100, 200, 50, 80, "Hector");
     }
 
 

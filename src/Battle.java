@@ -1,6 +1,6 @@
-import com.dragon.units.Warrior;
+import src.com.dragon.units.Warrior;
 
-public class Main {
+public class Battle {
 
     public static void main(String[] args) {
 
